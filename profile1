@@ -30,12 +30,12 @@
       "sideBar.background": "#02046e4f",
       "activityBar.background": "#2501c434",
       "activityBar.foreground": "#ffc400",
-      "scrollbarSlider.background": "#374c6494"
+      "scrollbarSlider.background": "#374c6494",
+      "editorError.foreground": "#ff0000",
+      "editorError.background": "#ffffff3d"
     },
 
     "json.schemas": [
-    
-
 
     ],
   }
