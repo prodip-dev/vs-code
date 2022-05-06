@@ -30,10 +30,11 @@
       "sideBar.background": "#02046e4f",
       "activityBar.background": "#2501c434",
       "activityBar.foreground": "#ffc400",
-      "scrollbarSlider.background": "#374c64e5"
+      "scrollbarSlider.background": "#374c6494"
     },
 
     "json.schemas": [
+    
 
 
     ],
