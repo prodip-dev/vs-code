@@ -9,7 +9,7 @@
     "editor.fontWeight": "400",
     "prettier.eslintIntegration": true,
     "editor.cursorStyle": "line-thin",
-    "editor.cursorWidth": 5,
+    "editor.cursorWidth": 7,
     "editor.cursorBlinking": "expand",
     "editor.renderWhitespace": "all",
     "files.autoSave": "afterDelay",
@@ -30,9 +30,11 @@
       "sideBar.background": "#02046e4f",
       "activityBar.background": "#2501c434",
       "activityBar.foreground": "#ffc400",
+      "scrollbarSlider.background": "#374c64e5"
     },
 
     "json.schemas": [
+
 
     ],
   }
