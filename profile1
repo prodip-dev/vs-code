@@ -1,25 +1,4 @@
-{
-    "workbench.colorTheme": "Cobalt2",
-    // The Cursive font is operator Mono, it's $200 and you need to buy it to get the cursive
-    "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
-    "editor.fontSize": 13,
-    "editor.lineHeight": 24,
-    "editor.letterSpacing": 0.5,
-    "files.trimTrailingWhitespace": true,
-    "editor.fontWeight": "400",
-    "prettier.eslintIntegration": true,
-    "editor.cursorStyle": "line-thin",
-    "editor.cursorWidth": 7,
-    "editor.cursorBlinking": "expand",
-    "editor.renderWhitespace": "all",
-    "files.autoSave": "afterDelay",
-    "liveServer.settings.CustomBrowser": "firefox:PrivateMode",
-    "workbench.iconTheme": "material-icon-theme",
-    "liveServer.settings.donotShowInfoMsg": true,
-    "vscode-edge-devtools.webhint": false,
-    "editor.cursorSmoothCaretAnimation": true,
-
-    "workbench.colorCustomizations": {
+"workbench.colorCustomizations": {
       "editor.background": "#000e36",
       "editorLineNumber.activeForeground": "#ffff00",
       "editor.lineHighlightBackground": "#00ff9530",
@@ -30,12 +9,20 @@
       "sideBar.background": "#02046e4f",
       "activityBar.background": "#2501c434",
       "activityBar.foreground": "#ffc400",
-      "scrollbarSlider.background": "#374c6494",
+      "scrollbarSlider.background": "#375d6485",
+      "scrollbarSlider.activeBackground": "#375d64c7",
+      "scrollbarSlider.hoverBackground": "#375d64a8",
       "editorError.foreground": "#ff0000",
-      "editorError.background": "#ffffff3d"
-    },
-
-    "json.schemas": [
-
-    ],
-  }
+      "editorError.background": "#ffffff3d",
+      "editor.selectionBackground": "#00ffd538",
+      "statusBar.background": "#00ccff17",
+      "statusBar.foreground": "#eeecec",
+      "editorWhitespace.foreground": "#ffffff52",
+      // "tab.activeBorderTop": "#ff0000",
+      "tab.activeForeground": "#ffffff",
+      "titleBar.activeBackground": "#02046e4f",
+      "tab.inactiveForeground": "#d8d8d8",
+      "tab.activeBorder": "#ff0000cc",
+      // "titleBar.activeForeground": "#ad8501",
+      "titleBar.border": "#888888"
+  },
