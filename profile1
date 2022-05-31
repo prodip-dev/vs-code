@@ -9,7 +9,7 @@
       "sideBar.background": "#02046e4f",
       "activityBar.background": "#2501c434",
       "activityBar.foreground": "#ff0000",
-      "activityBar.inactiveForeground": "#ffd900",
+      "activityBar.inactiveForeground": "#c9a400",
       "scrollbarSlider.background": "#375d6485",
       "scrollbarSlider.activeBackground": "#375d64c7",
       "scrollbarSlider.hoverBackground": "#375d64a8",
