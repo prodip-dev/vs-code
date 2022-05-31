@@ -24,6 +24,7 @@
       "titleBar.activeBackground": "#02046e4f",
       "tab.inactiveForeground": "#d8d8d8",
       "tab.activeBorder": "#ff0000",
+      "tab.activeBorderTop": "#ff000000",
       // "titleBar.activeForeground": "#ad8501",
       "titleBar.border": "#888888",
       "editorBracketMatch.background": "#73ff0048",
