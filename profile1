@@ -1,5 +1,5 @@
 "workbench.colorCustomizations": {
-      "editor.background": "#1b274731",
+      "editor.background": "#1f2538",
       "minimap.background": "#1f2538",
       "editorLineNumber.activeForeground": "#f7df1e",
       "editor.lineHighlightBackground": "#0c352f28",
@@ -8,8 +8,9 @@
       "editorCursor.foreground": "#ff0000",
       "editorCursor.background": "#ffff00",
       "sideBar.background": "#02046e4f",
-      "titleBar.activeBackground": "#2501c434",
-      "activityBar.background": "#2501c434",
+      "titleBar.activeBackground": "#120c74",
+      "titleBar.inactiveBackground": "#120c74",
+      "activityBar.background": "#120c74",
       "activityBar.inactiveForeground": "#d8b803",
       "activityBar.foreground": "#ff0000",
       "scrollbarSlider.background": "#375d6485",
