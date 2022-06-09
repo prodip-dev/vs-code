@@ -1,6 +1,7 @@
 "workbench.colorCustomizations": {
-      "editor.background": "#1f2538",
-      "minimap.background": "#1f2538",
+      "editor.background": "#001852",
+      "minimap.background": "#001852",
+      "editorLineNumber.foreground": "#fffbfb80",
       "editorLineNumber.activeForeground": "#f7df1e",
       "editor.lineHighlightBackground": "#0c352f28",
       "editor.lineHighlightBorder": "#000e36",
@@ -8,6 +9,7 @@
       "editorCursor.foreground": "#ff0000",
       "editorCursor.background": "#ffff00",
       "sideBar.background": "#02046e4f",
+      "titleBar.inactiveForeground": "#e0e0e0",
       "titleBar.activeBackground": "#120c74",
       "titleBar.inactiveBackground": "#120c74",
       "activityBar.background": "#120c74",
@@ -19,7 +21,7 @@
       "editorError.foreground": "#ff0000",
       "editorError.background": "#ffffff3d",
       "editor.selectionBackground": "#00ffd538",
-      "statusBar.background": "#00ccff17",
+      "statusBar.background": "#00ccff2c",
       "statusBar.foreground": "#eeecec",
       "editorWhitespace.foreground": "#ffffff52",
       // "tab.activeBorderTop": "#ff0000",
@@ -32,5 +34,6 @@
       "editorBracketMatch.background": "#73ff0048",
       "editorBracketMatch.border": "#ff000000",
       "breadcrumb.background": "#000000",
-      "editorGutter.background": "#000000"
+      "editorGutter.background": "#000000",
+      "editorSuggestWidget.selectedBackground": "#38484d"
     },
